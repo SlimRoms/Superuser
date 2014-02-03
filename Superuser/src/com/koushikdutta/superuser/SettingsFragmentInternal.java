@@ -143,7 +143,7 @@ public class SettingsFragmentInternal extends BetterListFragmentInternal {
                     setSummary(R.string.access_disabled);
                     break;
                 default:
-                    setSummary(R.string.apps_and_adb);
+                    setSummary(R.string.access_disabled);
                     break;
                 }
             }

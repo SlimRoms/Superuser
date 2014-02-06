@@ -1,6 +1,6 @@
 /*
- * Copyright (C) 2013 Koushik Dutta (@koush)
- * Copyright (C) 2014 Slim+ Team Project
+ * Copyright (C) 2013 - 2014 Koushik Dutta (@koush)
+ * Copyright (C) 2014 - 2015 Slim+ Team Project
  *
  * Licensed under the Apache License, Version 2.0 (the "License");
  * you may not use this file except in compliance with the License.

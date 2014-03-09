@@ -1,6 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources>
+<!--
+     Copyright (C) 2013-2014 The CyanogenMod Project
 
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+
+          http://www.apache.org/licenses/LICENSE-2.0
+
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <string name="superuser">Superuser</string>
     <string name="allow">Allow</string>
     <string name="deny">Deny</string>
@@ -23,7 +37,7 @@
     <string name="no_logs">No Logs</string>
     <string name="no_apps">There are currently no Superuser app policies.</string>
     <string name="logging">Logging</string>
-    <string name="logging_summary">Enable or disable all Superuser request logging</string>
+    <string name="logging_summary">Enable all Superuser request logging</string>
     <string name="pin_protection">PIN Protection</string>
     <string name="pin_protection_summary">Require entry of a PIN to approve Superuser requests</string>
     <string name="request_timeout">Request Timeout</string>
@@ -87,4 +101,7 @@
     <string name="light">Light</string>
     <string name="dark">Dark</string>
     <string name="pin_disabled">Superuser PIN protection disabled</string>
+    <string name="revoke_permission">Revoke Superuser permission</string>
+    <string name="details">Details</string>
+    <string name="db_delete_error">Superuser permission cannot be revoked from this app.\nPlease restart the Superuser app and try again.</string>
 </resources>

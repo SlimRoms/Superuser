@@ -15,7 +15,7 @@
      See the License for the specific language governing permissions and
      limitations under the License.
 -->
-<resources>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
   <string name="superuser">Superusuari</string>
   <string name="allow">Permet</string>
   <string name="deny">Denega</string>
@@ -33,7 +33,7 @@
   <string name="remember_forever">Recorda l\'elecció per sempre</string>
   <string name="interactive">Interactiu</string>
   <string name="logs">Registres</string>
-  <string name="settings">Ajustaments</string>
+  <string name="settings">Configuració</string>
   <string name="delete">Esborra</string>
   <string name="no_logs">Sense Registres</string>
   <string name="no_apps">Actualment no hi ha polítiques d\'app de Superusuari.</string>

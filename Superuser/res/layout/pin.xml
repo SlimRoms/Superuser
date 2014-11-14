@@ -19,7 +19,7 @@
         android:maxLines="1"
         android:padding="@dimen/section_padding"
         android:password="true"
-        android:textColor="@color/white" />
+        android:textColor="@android:color/white" />
 
     <FrameLayout
         android:layout_width="match_parent"
